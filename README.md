@@ -1,6 +1,6 @@
 ### Hi, I am Mike👋
 
-Project Areas
+## Project Areas
 Outside of my full-time job, I tend to work on quite a few projects, as many as time permits, but my focus is mostly around the following areas:
 
 <!--
