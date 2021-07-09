@@ -1,4 +1,7 @@
-### Hi there, I am Mike👋
+### Hi, I am Mike👋
+
+Project Areas
+Outside of my full-time job, I tend to work on quite a few projects, as many as time permits, but my focus is mostly around the following areas:
 
 <!--
 **Anhmike/Anhmike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
