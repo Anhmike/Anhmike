@@ -3,10 +3,10 @@
 ## Project Areas
 Outside of my full-time job, I tend to work on quite a few projects, as many as time permits, but my focus is mostly around the following areas:
 
-  rapidsai
-  nvidia gpu
-  python
-  product management
+  - rapidsai
+  - nvidia gpu
+  - python
+  - product management
 
 <!--
 **Anhmike/Anhmike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
