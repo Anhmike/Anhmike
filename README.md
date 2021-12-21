@@ -1,4 +1,4 @@
-### Hi, I am Mike👋
+### Hi, I am Mike Pham👋
 
 ## Project Areas
 Outside of my full-time job, I tend to work on quite a few projects, as many as time permits, but my focus is mostly around the following areas:
