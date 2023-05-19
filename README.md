@@ -1,7 +1,9 @@
 ### Hi, I am Mike Pham👋
 
 ## Project Areas
-I am looking for employment. I tend to work on quite a few projects, as many as time permits, but my focus is mostly around the following areas:
+I am consultant in data science, machine learning, artificial intelligence. 
+
+I am also looking for full-time employment. I tend to work on quite a few projects, as many as time permits, but my focus is mostly around the following areas:
 
 ### 2023 - current
   - openai
