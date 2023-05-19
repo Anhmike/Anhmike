@@ -1,4 +1,4 @@
-### Hi, I am Mike Pham👋
+# Hi, I am Mike Pham👋
 
 ## Project Areas
 I am consultant in data science, machine learning, artificial intelligence. 
